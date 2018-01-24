@@ -35,11 +35,7 @@ git commit –m 'The first commit'
 git clone <repo url>
 ```
 
-- e.g.:
-
-```
-git clone git@bitbucket.org:rhyolight/javascript-data-store.git
-```
+- e.g.: `git clone https://github.com/amioranza/cheat-sheets.git`
 
 ## Treeish and Hash
 
