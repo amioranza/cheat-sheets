@@ -1,5 +1,18 @@
 # Git commands and caveats
 
+Based on refcardz from DZone (https://dzone.com/refcardz/getting-started-git).
+
+## TL;DR
+
+```
+echo "# cheat-sheets" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/amioranza/cheat-sheets.git
+git push -u origin master
+```
+
 ## Setup credentials just for code credits not for authz or authn
 
 ```
