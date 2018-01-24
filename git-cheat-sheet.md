@@ -1,4 +1,4 @@
-# Git commands and caveats
+# Git cheat sheet
 
 Based on refcardz from DZone (https://dzone.com/refcardz/getting-started-git).
 
