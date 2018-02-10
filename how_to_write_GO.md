@@ -2,11 +2,11 @@
 
 ## Main practices
 
-1 - All go code on a single workspace
-2 - Workspace contain many version control repositories (git for example)
-3 - Each repository contains one or more packages
-4 - Each package consists one or more Go source files in a single directory.
-5 - The path to a package's directory determines its import path
+1. All go code on a single workspace
+2. Workspace contain many version control repositories (git for example)
+3. Each repository contains one or more packages
+4. Each package consists one or more Go source files in a single directory.
+5. The path to a package's directory determines its import path
 
 ### TL;DR
 
