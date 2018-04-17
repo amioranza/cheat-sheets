@@ -164,7 +164,7 @@ git show
 ## Change the comments of the last commit without changing files
 
 ```
-git amend
+git commit --amend
 ```
 
 ## Branching the code
